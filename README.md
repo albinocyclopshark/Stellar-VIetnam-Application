@@ -10,8 +10,7 @@ Smart Contract ID: CDU6WR3BQVV5ILB5G4HWRVTNDCXGKFJWJGAE34SEUHQLQMYOSVSRDFYY
 Transaction Hash: https://stellar.expert/explorer/testnet/tx/7983152a05901656e45b196af3881437735fc0d111ddf5712cd714c341076cff
 
 Minh chứng giao dịch:
-![Minh chứng Contract](https://github.com/albinocyclopshark/Stellar-Vietnam-Application/blob/main/ten-anh-cua-ban.png?raw=true)
-
+![Minh chứng Contract](https://github.com/albinocyclopshark/Stellar-VIetnam-Application/blob/main/Contract.png?raw=true)
 Hướng dẫn cài đặt và chạy dự án:
 1. Clone dự án: git clone https://github.com/albinocyclopshark/Stellar-Vietnam-Application.git
 2. Di chuyển vào thư mục dự án: cd Stellar-Vietnam-Application
